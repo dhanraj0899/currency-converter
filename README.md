@@ -75,13 +75,13 @@ Follow these steps to set up and run the Currency Converter locally:
 ## Screenshots
 **Currency Conversion**:
 ![Conversion Screenshot](screenshot_conversion.png)
-*Caption: Converting 100 USD to EUR.*
+*  Converting 100 USD to EUR.*
 
 
 
 **Error Handling**:
 ![Error Screenshot](screenshot_error.png)
-*Caption: Error message for invalid amount.*
+*  Error message for invalid amount.*
 
 
 ## Contributing
