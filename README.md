@@ -71,14 +71,18 @@ Follow these steps to set up and run the Currency Converter locally:
   - Output: Display shows "100 USD = 92.50 EUR" (example rate).
   - Add "USD to EUR" to favorites, then select it from the favorites list for quick conversion.
 
+
 ## Screenshots
 **Currency Conversion**:
 ![Conversion Screenshot](screenshot_conversion.png)
 *Caption: Converting 100 USD to EUR.*
 
+
+
 **Error Handling**:
 ![Error Screenshot](screenshot_error.png)
 *Caption: Error message for invalid amount.*
+
 
 ## Contributing
 Contributions are welcome! To contribute:
